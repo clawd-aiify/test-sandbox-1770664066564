@@ -1,2 +1,3 @@
-# test-sandbox-1770664066564
-Auto-generated test repository
+# Test Sandbox
+
+Auto-generated test repository.
